@@ -1,0 +1,44 @@
+body.cafe {
+    background-color: bisque;
+}
+
+header.brown {
+    color: brown;
+    text-align: center;
+    font-style: bold;
+}
+
+p.Lacarta {
+    height: 100px;
+    width: 200px;
+    left: -5px;
+    position: relative
+}
+
+p.Elcafe {
+    height: 100px;
+    width: 200px;
+    left: 800px;
+    position: relative
+}
+
+p.Contacto {
+    height: 100px;
+    width: 200px;
+    left: 1600px;
+    position: relative
+}
+
+nav.brown {
+    color: brown;
+}
+
+nav.redbold {
+    color: brown;
+    font-style: bold;
+}
+
+button.atras {
+    bottom: 0;
+    position: relative
+}
